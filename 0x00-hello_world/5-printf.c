@@ -6,9 +6,9 @@
 #include <stdio.h>
 
 /**
- * main - Prints "with proper grammar, but the outcome a piece of art," 
+ * main - Prints "with proper grammar, but the outcome a piece of art,"
  * Followed by a new line
- *          
+ *
  * Return: Always 0.
  */
 int main(void)
